@@ -13,7 +13,7 @@
 
 ### 1. Clone
 ```bash
-git clone https://github.com/TU_USUARIO/tradx.git
+git clone https://github.com/samuelsrip/tradx.git
 cd tradx
 ```
 
